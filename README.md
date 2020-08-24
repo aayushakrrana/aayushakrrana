@@ -14,13 +14,13 @@ I work work with the following languages and technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/c.gif"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/cpp.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/cpp.gif"  height="90" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/python.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/python.gif"  height="90" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/java.gif"  height="65" />
+    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/java.gif"  height="90" />
   </a>
  </p>
   
@@ -28,50 +28,49 @@ I work work with the following languages and technologies.☁️🚀
   
  <p float="left">
   <a href="https://bit.ly/2W7a91W" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/html.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/html.gif"  height="90" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/css.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/css.gif"  height="90" />
   </a>
    <a href="https://bit.ly/2W7a91W" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/boots.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/jss.gif"  height="90" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/js.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/boots.gif"  height="90" />
   </a>
  </p>
   
-### Monitoring
+### Database
   
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+     <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/sql.gif"  height="90" />&nbsp;&nbsp;
   </a>
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
-  </a>
+ 
 </p>
 
-### Databases
+### Platforms
   
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/codeblock.gif"  height="90" />&nbsp;&nbsp;
   </a>
   <a href="https://www.timescale.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
+    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/anaconda.gif"  height="90" />
   </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
+   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/netbean.gif"  height="90" />
+  </a>
+   <a href="https://www.mongodb.com/" target="_blank" >
+  <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/vscode.gif"  height="90" />
+  </a>
+   <a href="https://www.mongodb.com/" target="_blank" >
+   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/git.gif"  height="90" />
   </a>
 </p>
 
 ### 📫 How to reach me? 
-
-  ⦿ Visit my [Website](https://www.kumar-saurabh.com) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/itsksaurabh/) 👨🏻‍💻 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/aayushakrrana/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:itsksaurabh@gmail.com) 💌 <br>
+  ⦿ Shoot Me an [Email](mailto:aayushakrrana@gmail.com) 💌 <br>
