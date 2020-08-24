@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-<!--
-**itsksaurabh/itsksaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 I am Aayush, a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
+I
 
-I work work with the following languages and technologies.☁️🚀
+I work with the following languages and technologies.☁️🚀
 
 
 <p float="left">
@@ -70,7 +67,15 @@ I work work with the following languages and technologies.☁️🚀
   </a>
 </p>
 
-### 📫 How to reach me? 
+<a href="https://github.com/aayushakrrana/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushakrrana&show_icons=true&include_all_commits=true&title_color=00AEFF&icon_color=2DDE98&text_color=ffffff&bg_color=050F2C" alt="Aayush's github stats" />
+</a>
+<a href="https://github.com/aayushakrrana/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushakrrana&layout=compact&title_color=00AEFF&icon_color=2DDE98&text_color=ffffff&bg_color=050F2C" />
+</a>
+
+
+### 📫 Reach me out -
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/aayushakrrana/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/itsaayushrana) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:aayushakrrana@gmail.com) 💌 <br>
