@@ -14,13 +14,13 @@ I work work with the following languages and technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/c.gif"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/cpp.gif"  height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/python.gif"  height="75" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/java.gif"  height="65" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
