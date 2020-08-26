@@ -1,7 +1,6 @@
 ### Hi there 👋
-
+#
 I am Aayush, a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
-I
 
 I work with the following languages and technologies.☁️🚀
 
@@ -74,7 +73,7 @@ I work with the following languages and technologies.☁️🚀
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushakrrana&layout=compact&title_color=00AEFF&icon_color=2DDE98&text_color=ffffff&bg_color=050F2C" />
 </a>
 
-
+#
 ### 📫 Reach me out -
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/aayushakrrana/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/itsaayushrana) 🐦 <br>
