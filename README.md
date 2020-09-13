@@ -1,5 +1,5 @@
 # Hi there<img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" />
-#
+
 I am Aayush, a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
 
 I work with the following languages and technologies.☁️🚀
