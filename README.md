@@ -1,4 +1,4 @@
-### Hi there <img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="40" />
+# Hi there<img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" />
 #
 I am Aayush, a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
 
@@ -42,7 +42,7 @@ I work with the following languages and technologies.☁️🚀
  <p float="left">
   <a href="https://www.mysql.com/" target="_blank" >
      <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/sql.gif"  height="90" />&nbsp;&nbsp;
-  </a>
+  </a
  
 </p>
 
