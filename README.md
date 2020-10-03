@@ -83,12 +83,12 @@ I work with the following languages and technologies.☁️🚀
 #
 ### 📫 Reach me out -
   <a href="https://www.linkedin.com/in/aayushakrrana/" target="_blank" >
-   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/linkedin.png"  />
+   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/linkedin.png"  />&nbsp;&nbsp;
   </a><a href="https://twitter.com/itsaayushrana" target="_blank" >
-   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/twitter.png"  />
+   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/twitter.png"  />&nbsp;&nbsp;
   </a> <a href="mailto:aayushakrrana@gmail.com" target="_blank" >
-   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/email.png"  />
+   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/email.png"  />&nbsp;&nbsp;
   </a><a href="https://aayushakrrana.github.io/" target="_blank" >
-   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/portfolio.png"  />
+   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/portfolio.png"  />&nbsp;&nbsp;
   </a>    
  
