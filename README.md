@@ -82,6 +82,11 @@ I work with the following languages and technologies.☁️🚀
 
 #
 ### 📫 Reach me out -
+  <a href="https://git-scm.com/" target="_blank" >
+   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/linkedin.gif"  />
+  </a><a href="https://git-scm.com/" target="_blank" >
+   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/twitter.gif"  />
+  </a>  
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/aayushakrrana/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/itsaayushrana) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:aayushakrrana@gmail.com) 💌 <br>
