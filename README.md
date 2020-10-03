@@ -82,12 +82,13 @@ I work with the following languages and technologies.☁️🚀
 
 #
 ### 📫 Reach me out -
-  <a href="https://git-scm.com/" target="_blank" >
-   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/linkedin.gif"  />
-  </a><a href="https://git-scm.com/" target="_blank" >
-   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/twitter.gif"  />
-  </a>  
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/aayushakrrana/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/itsaayushrana) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:aayushakrrana@gmail.com) 💌 <br>
-  ⦿ Look Me up at [Portfolio](https://aayushakrrana.github.io/) 🌐 <br>
+  <a href="https://www.linkedin.com/in/aayushakrrana/" target="_blank" >
+   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/linkedin.png"  />
+  </a><a href="https://twitter.com/itsaayushrana" target="_blank" >
+   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/twitter.png"  />
+  </a> <a href="mailto:aayushakrrana@gmail.com" target="_blank" >
+   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/email.png"  />
+  </a><a href="https://aayushakrrana.github.io/" target="_blank" >
+   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/portfolio.png"  />
+  </a>    
+ 
