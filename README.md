@@ -35,6 +35,9 @@ I work with the following languages and technologies.☁️🚀
   <a href="https://getbootstrap.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/boots.gif"  height="90" />
   </a>
+  <a href="https://reactjs.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/react.gif"  height="90" />
+  </a>
  </p>
   
 ### Database
@@ -42,6 +45,9 @@ I work with the following languages and technologies.☁️🚀
  <p float="left">
   <a href="https://www.mysql.com/" target="_blank" >
      <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/sql.gif"  height="90" />&nbsp;&nbsp;
+  </a
+    <a href="https://www.sqlite.org/fileformat2.html" target="_blank" >
+     <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/sqlite.gif"  height="90" />&nbsp;&nbsp;
   </a
  
 </p>
