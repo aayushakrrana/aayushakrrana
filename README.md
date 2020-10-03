@@ -71,7 +71,8 @@ I work with the following languages and technologies.☁️🚀
    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/git.gif"  height="90" />
   </a>
 </p>
-#
+
+#   
 <a href="https://github.com/aayushakrrana/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushakrrana&show_icons=true&include_all_commits=true&title_color=00AEFF&icon_color=2DDE98&text_color=ffffff&bg_color=050F2C" alt="Aayush's github stats" />
 </a>
